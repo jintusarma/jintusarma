@@ -43,4 +43,4 @@
 
 </details>
 
-[linkedin]: https://linkedin.com/in/jintumani-sarma# jintusarma
+[linkedin]: https://linkedin.com/in/jintumani-sarma
