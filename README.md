@@ -4,7 +4,7 @@
 
 ## I'm a Student !!
 
-- 🔭 I'm currently at B.Tech 5th Sem , IT !
+- 🎓 I'm currently at B.Tech 5th Sem , IT !
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: To become a Full Stack Web Developer
