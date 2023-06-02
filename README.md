@@ -4,10 +4,10 @@
 
 ## I'm a Student !!
 
-- 🎓 I'm currently at B.Tech 6th Sem , IT !
+- 🎓 I'm currently at B.Tech 8th Sem , IT !
 - 🌱 I’m currently learning Django 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: To become a Full Stack Web Developer in Django
+- 🥅 2023 Goals: To become a master in JavaScript
 
 ### Connect with me:
 
